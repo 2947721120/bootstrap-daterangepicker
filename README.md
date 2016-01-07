@@ -1,20 +1,17 @@
-# Date Range Picker for Bootstrap
+# 日期范围选择器的引导Bootstrap
 
 ![Improvely.com](http://i.imgur.com/LbAMf3D.png)
 
-This date range picker component for Bootstrap creates a dropdown menu from which a user can
-select a range of dates. I created it while building the UI for [Improvely](http://www.improvely.com), 
-which needed a way to select date ranges for reports.
+此日期范围内选取器组件的引导创建一个下拉菜单，从中用户可以选择一个日期范围。我创造了它在构建用户界面[Improvely](http://www.improvely.com), 
+这需要一种方法来选择日期范围的报告。
 
-Features include limiting the selectable date range, localizable strings and date formats,
-a single date picker mode, optional time picker (for e.g. making appointments or reservations),
-and styles that match the default Bootstrap 3 theme.
+其特点包括限制可选择的日期范围，本地化字符串和日期格式，一个日期选取器模式，可选的时间选择器（用于如委任或保留），并且符合标准的引导3 Bootstrap 3主题风格。
 
-## [Documentation and Live Usage Examples](http://www.daterangepicker.com)
+##文档和现场应用实例 [文档和现场应用实例](http://www.daterangepicker.com)
 
-## [See It In a Live Application](https://awio.iljmp.com/5/drpdemogh)
+## [看到它在动态应用](https://awio.iljmp.com/5/drpdemogh)
 
-## License
+## 许可
 
 This code is made available under the same license as Bootstrap. Moment.js is included in this repository
 for convenience. It is available under the [MIT license](http://www.opensource.org/licenses/mit-license.php).
